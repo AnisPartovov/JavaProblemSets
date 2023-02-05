@@ -1,4 +1,4 @@
-package org.example;
+package org.Week1;
 
 public class MuchBetter {
     public static void main(String[] args) {

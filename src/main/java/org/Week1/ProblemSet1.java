@@ -1,5 +1,4 @@
-package org.example;
-import com.sun.tools.javac.Main;
+package org.Week1;
 
 import java.lang.Math;
 public class ProblemSet1 {

@@ -1,4 +1,4 @@
-package org.example;
+package org.Week1;
 
 public class Lanterns {
     public static void stars_top(){
