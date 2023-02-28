@@ -1,2 +1,0 @@
-# JavaProblemSets
-JavaWeek1
