@@ -1,6 +1,6 @@
 # JavaProblemSets
 
-Java Problem Sets and Quizzes solved by me (Sophomore year).
+Java Problem Sets solved by me (Freshman year).
 
 ## Problem Sets
 
