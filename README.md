@@ -10,3 +10,4 @@ Java Problem Sets solved by me (Freshman year).
 4. [Week 4](https://github.com/AnisPartovov/JavaProblemSets/tree/main/ProblemSetWeek4)
 5. [Week 5](https://github.com/AnisPartovov/JavaProblemSets/tree/main/ProblemSetWeek5)
 6. [Week 6](https://github.com/AnisPartovov/JavaProblemSets/tree/main/ProblemSetweek6/src)
+7. [Week 7](https://github.com/AnisPartovov/JavaProblemSets/tree/main/ProblemSetWeek7/src)
